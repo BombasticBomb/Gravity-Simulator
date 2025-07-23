@@ -1,1 +1,1 @@
-python3 gravity_v3.py
+python3 gravity.py
