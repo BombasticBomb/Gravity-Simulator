@@ -9,6 +9,7 @@ Controls:
 - Press "S + Arrow keys" to speed up or slow down the simulation.
 - Press "G + Arrow Keys" to increase or decrease the force of gravity.
 - Press "I + Arrow Keys" to increase of decrease velocity of the planet.
+- Press "Escape" to Restart the Simulation.
 
 
-Thank you for Downloading! Enjoy and Don't forget to send me code suggestions!!
+Thank you for Downloading! Enjoy and don't forget to send me code suggestions!!
